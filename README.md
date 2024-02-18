@@ -11,7 +11,7 @@ This project is a creative and interactive webpage showcasing various coffee typ
 ## Usage
 
 To view the webpage, simply open the `index.html` file in a web browser.
-You can also access the live demo [here](#).
+You can also access the live demo [here](https://n4c1r.github.io/for_the_love_of_coffee/).
 
 ## Development
 
@@ -24,9 +24,9 @@ You can also access the live demo [here](#).
 
 1. Clone the repository:
 
-   ```bash
-		git clone https://github.com/N4C1R/for_the_love_of_coffee.git
-   ```
+```bash
+git clone https://github.com/N4C1R/for_the_love_of_coffee.git
+```
 
 2. Open the project in your code editor.
 
